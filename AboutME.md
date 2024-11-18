@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning all about coding
 - 📫 How to reach me : please dont
 - 😄 Pronouns: pimo, pm and strange People call me 5145
-- ⚡ Fun fact: i dont get ans fun fact
+- ⚡ Fun fact: i dont get any fun fact
 
 <!---
 Pm5145/Pm5145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
