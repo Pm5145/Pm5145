@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pm5145
 - 👀 I’m interested in ai developpement
-- 🌱 I’m currently learning all about coding
+- 🌱 I’m currently learning all about coding, specially arduino things
 - 📫 How to reach me : please dont
 - 😄 Pronouns: pimo, pm and strange People call me 5145
 - ⚡ Fun fact: i dont get any fun fact
